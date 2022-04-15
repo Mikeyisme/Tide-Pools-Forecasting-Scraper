@@ -10,7 +10,7 @@ The forecast page for each location is loaded, and information on low tides (dat
 
 2. Setup Environment:
    ``` 
-   cd /tide_scraper`
+   cd /tide-scraper`
    pip install requests
 
    ```
