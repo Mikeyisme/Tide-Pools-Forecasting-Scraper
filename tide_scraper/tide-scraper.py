@@ -26,7 +26,6 @@ Providence = (pull[2].html.find('div.column', first=True).find('div.tide-day', f
 Wrightsville = (pull[3].html.find('div.column', first=True).find('div.tide-day', first=True).text)
 
 
-#HalfMoonBay = (pull2.html.find('div.tide_flex_start', first=True).find('div.tide-day', first=True).text)
 
 print(HalfMoonBay,'\n''-----------------------------------------------------------------''\n',
       Huntington,'\n''-----------------------------------------------------------''\n', 
